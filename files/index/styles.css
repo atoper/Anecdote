@@ -31,7 +31,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:46px;
   width:360px;
   height:640px;
 }
@@ -47,7 +47,7 @@
 #u1 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:46px;
 }
 #u1_state0 {
   position:relative;
@@ -1259,7 +1259,17 @@
   border-width:0px;
   position:absolute;
   left:130px;
-  top:650px;
+  top:696px;
+  width:100px;
+  height:31px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u46 {
+  border-width:0px;
+  position:absolute;
+  left:130px;
+  top:5px;
   width:100px;
   height:31px;
   overflow:hidden;
