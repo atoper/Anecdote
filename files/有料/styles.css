@@ -31,7 +31,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:46px;
+  top:0px;
   width:360px;
   height:640px;
 }
@@ -47,7 +47,7 @@
 #u1 {
   position:absolute;
   left:0px;
-  top:46px;
+  top:0px;
 }
 #u1_state0 {
   position:relative;
@@ -1439,26 +1439,6 @@
   top:16px;
   width:53px;
   height:50px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u53 {
-  border-width:0px;
-  position:absolute;
-  left:130px;
-  top:696px;
-  width:100px;
-  height:31px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u54 {
-  border-width:0px;
-  position:absolute;
-  left:130px;
-  top:5px;
-  width:100px;
-  height:31px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
